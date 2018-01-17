@@ -105,3 +105,8 @@ class Dog {
         this.age = age;
     }
 }
+
+/*
+说明：生成的.CSV文件中文乱码  解决办法
+
+  将utf-8 编码的文件用 notepad++ 改成 ANSI编码  再用Excel 打开*/
